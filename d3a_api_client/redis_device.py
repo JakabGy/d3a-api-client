@@ -1,3 +1,4 @@
+Delete all settings 
 import logging
 import json
 from d3a_api_client.redis import RedisClient, Commands

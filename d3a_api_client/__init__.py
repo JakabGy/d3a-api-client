@@ -1,3 +1,4 @@
+Delete all settings 
 from abc import ABC, abstractmethod
 
 

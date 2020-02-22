@@ -1,3 +1,4 @@
+Delete all settings 
 # D3A API Client
 
 D3A API client is responsible for communicating with a running simulation of D3A. The client uses the API of the D3A external connections in order to be able to dynamically connect to the simulated electrical grid and place offers for its energy production, and bids for its energy consumption/requirements.

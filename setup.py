@@ -1,3 +1,4 @@
+Delete all settings 
 from setuptools import setup, find_packages
 
 

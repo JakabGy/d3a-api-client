@@ -1,3 +1,4 @@
+Delete all settings 
 import os
 from fabric.colors import green, yellow
 from fabric.context_managers import hide
